@@ -1,0 +1,31 @@
+ONLINE ROUND:
+
+1)	Implementation of Round Robin Algorithm.
+
+2)	Application of Target Sum Pair.
+
+3)	Implementation of Graphs Algo DFS.
+
+
+
+INTERVIEW:
+
+1) 	You are owner of flower shop, there are 2 types of flowers- Rose and lily. There are 2 types of people flower lovers and flower alergic, flower alergic person donates his 
+	flower to the shop, while flower lovers buy flowers.
+	The flower which arrive in shop are sold first.
+	Implement 4 functions-
+	1- buyFlower()
+	2- donate()
+	3- buyLily()
+	4- buuyRose()
+	Implment all in O(1) Time  complexity
+
+	HINT- Queue Data Structure;
+
+2) 	Conversion of sorted array to Balanced BST 
+	TC- O(n)
+
+3) 	Given an infinite stream of numbers, check if at the particular moment a target element k exist in array.
+	TC- O( log(n) )
+
+	HINT- Binary search
